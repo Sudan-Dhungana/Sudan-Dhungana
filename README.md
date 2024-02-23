@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sudan-Dhungana
-- 👀 I’m interested in Technology Field
+- 👀 I’m interested in Technology Field, 3D Blender, Game Design
 - 🌱 I’m currently learning C | Java | OOP | Web Development.
 
 <!---
