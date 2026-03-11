@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @Sudan-Dhungana
 - 👀 I’m interested in Technology Field and I love 3D Blender, Unreal Engine, and other cool software to make cool things.
 - 🌱 I have knowledge of C | C# | Python | Flutter - Dart | Java | OOP | Web Development |...
